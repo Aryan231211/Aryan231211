@@ -36,3 +36,11 @@ An end-to-end analytics project using Python, SQL and Power BI.
 ### 📫 Connect With Me
 
 - GitHub: [Aryan231211](https://github.com/Aryan231211)
+
+---
+
+### 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan231211&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan231211&layout=compact&theme=tokyonight)
